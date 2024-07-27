@@ -1,0 +1,8 @@
+{
+    "name":"zzz",
+    "version": "1.0.0",
+    "description": "测试",
+    "main": "index.js",
+    "author": "zzz",
+    "license":"MIT"
+}
